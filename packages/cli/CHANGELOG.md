@@ -1,5 +1,9 @@
 # Changelog
 
+## \[3.7.3]
+
+- [`f7256ee`](https://www.github.com/tauri-apps/create-tauri-app/commit/f7256eecfedb3e786a342b574a0737b4ceb110e7)([#471](https://www.github.com/tauri-apps/create-tauri-app/pull/471)) Improve the error messages for  unsupported package manager, unsupported template or when a supported template is used with a package manager that is not intended to be used with.
+
 ## \[3.7.2]
 
 - [`3ea6acf`](https://www.github.com/tauri-apps/create-tauri-app/commit/3ea6acf54b1f9517043121b0ce0bacf8910f175c) Cleanup the vite config file for all templates.
